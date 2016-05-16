@@ -1,6 +1,6 @@
 # myFirstCalculator.js
 
-JavaScript port of [my_first_calculator.py](https://raw.githubusercontent.com/AceLewis/my_first_calculator.py).
+JavaScript port of [my_first_calculator.py](https://github.com/AceLewis/my_first_calculator.py).
 
 ## Usage:
 
