@@ -1,0 +1,23 @@
+{
+  "name": "myfirstcalculator",
+  "version": "0.9.0",
+  "description": "JavaScript port of my_first_calculator.py",
+  "main": "myFirstCalculator.js",
+  "bin": "myFirstCalculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mistereo/myFirstCalculator.js.git"
+  },
+  "keywords": [
+    "calculator"
+  ],
+  "author": "Mistereo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mistereo/myFirstCalculator.js/issues"
+  },
+  "homepage": "https://github.com/Mistereo/myFirstCalculator.js#readme"
+}
